@@ -39,3 +39,5 @@ The project uses Endee as a vector database to:
 
 #Conclusion
 This project demonstrates how AI and vector databases can be used to build intelligent recommendation systems for real-world applications like education.
+#Note
+This project demonstrates the concept of RAG and vector search. Due to environment limitations, a simplified implementation is used.
